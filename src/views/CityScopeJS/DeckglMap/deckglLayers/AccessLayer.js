@@ -25,7 +25,7 @@ export default function AccessLayer({ data, cellSize }) {
     shadowEnabled: false,
     material: false,
     diskResolution: 15,
-    radius: cellSize,
+    radius: 70,
     extruded: true,
     pickable: true,
     elevationScale: 0.5,
